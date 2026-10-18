@@ -1,5 +1,5 @@
 /**
- * Preloaded by nodemon via --require flag.
+ * Preloaded via --require (nodemon in dev, `npm start` in prod).
  * Runs before ANY module (including TypeScript imports).
  * Loads the .env from the monorepo root.
  */
